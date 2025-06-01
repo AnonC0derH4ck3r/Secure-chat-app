@@ -46,5 +46,5 @@ SecureChat is a full-stack secure messaging application built using **HTML**, **
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/secure-chat.git
+git clone https://github.com/your-username/secure-chat-app.git
 cd secure-chat
