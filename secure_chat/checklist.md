@@ -1,0 +1,5 @@
+1) Brute-Force Protection (login form) [✓]
+2) Passkey Based MFA    [✓]
+3) Upload Images, Documents [✓]
+4) Message Translation  [✓]
+5) Manage User Profile (Add MFA [Passkey Based])    [✓]
